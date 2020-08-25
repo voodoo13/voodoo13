@@ -1,6 +1,6 @@
 ### Hello there. My name is Tom
 
-## Some information about me:
+### Some information about me:
 - I’m currently working on Azure automation.
 - For that I’m currently learning Azure automation
 - You can ask me about PowerShell and Citrix
